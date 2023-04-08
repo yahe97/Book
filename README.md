@@ -1,2 +1,2 @@
 # Book
-https://github.com/yahe97/Book/blob/main/_build/html/index.html
+https://yahe97.github.io/Book/
