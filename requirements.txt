@@ -1,0 +1,10 @@
+jupyter-book
+matplotlib
+numpy <= 1.23
+ghp-import
+statsmodels
+pandas
+pyreadr
+array_to_latex
+sklearn
+# scikit
