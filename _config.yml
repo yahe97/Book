@@ -17,7 +17,7 @@ html:
   use_edit_page_button: true
 
 repository:
-  url: https://github.com/d2cml-ai/14.388_py
+  url: https://yahe97.github.io/Book
   branch: master
   path_to_book: _build/jupyter_execute/
 
